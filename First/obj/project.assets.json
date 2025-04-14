@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yn21968/Integrant/Cources/Projects/ASP_Demo/First/First/First.csproj",
+      "projectUniqueName": "/Users/yn21968/Integrant/Cources/Projects/ASP_Demo/First/First.csproj",
       "projectName": "First",
-      "projectPath": "/Users/yn21968/Integrant/Cources/Projects/ASP_Demo/First/First/First.csproj",
+      "projectPath": "/Users/yn21968/Integrant/Cources/Projects/ASP_Demo/First/First.csproj",
       "packagesPath": "/Users/yn21968/.nuget/packages/",
-      "outputPath": "/Users/yn21968/Integrant/Cources/Projects/ASP_Demo/First/First/obj/",
+      "outputPath": "/Users/yn21968/Integrant/Cources/Projects/ASP_Demo/First/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yn21968/.nuget/NuGet/NuGet.Config"
